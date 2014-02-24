@@ -10,5 +10,4 @@ document.addEventListener('DOMContentLoaded', function () {
   document.execCommand("Copy");
   document.body.removeChild(textarea);
 
-  alert('finished');
 });
